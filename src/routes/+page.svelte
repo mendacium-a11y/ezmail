@@ -261,7 +261,7 @@
       </div>
       <div class="grid gap-16 md:grid-cols-2">
         <div class="text-center text-gray-400">
-          <a href="https://linktr.ee/abhinavsrinivas">
+          <a href="https://linktr.ee/abhinavsrinivas" target="_blank" rel="noreferrer">
             <img
               class="mx-auto mb-4 w-36 h-36 md:w-48 md:h-48 rounded-full"
               src="https://avatars.githubusercontent.com/u/25835195?v=4"
@@ -314,10 +314,10 @@
           </ul>
         </div>
         <div class="text-center text-gray-400">
-          <a href="http://linktr.ee/IshaanAdarsh">
+          <a href="http://linktr.ee/IshaanAdarsh" target="_blank" rel="noreferrer">
             <img
               class="mx-auto mb-4 w-36 h-36 md:w-48 md:h-48 rounded-full"
-              src="https://pbs.twimg.com/profile_images/1507937776511361028/xPkmvqLZ_400x400.jpg"
+              src="https://avatars.githubusercontent.com/u/100434702?v=4"
               alt="Ishaan's Avatar"
             />
           </a>
