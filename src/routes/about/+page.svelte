@@ -39,7 +39,7 @@
 <svelte:window bind:innerWidth={ss} />
 <br />
 
-<div class="px-80">
+<div class="px-20 sm:px-28 md:px-40">
   <div class="mt-28">
     <h1
       class="text-center text-6xl font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl text-gray-800 dark:text-white mt-20 mb-20"
